@@ -1,13 +1,19 @@
 ---
 title: "Hypothermia"
-output: html_document
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::word_document2:
+    fig_width: 8
 bibliography: references_polar.bib
 csl: sage-vancouver.csl
 ---
 
-# Introduction
+# Index
 
-> Education resource for medical staff travelling to a polar environment, on recognition and management of hypothermia in the prehospital environment. The plan is this will also  include some info on the safe transfer of a hypothermic patient to medical care.
+> Assignment Brief: Education resource for medical staff travelling to a polar environment, on recognition and management of hypothermia in the prehospital environment. The plan is this will also  include some info on the safe transfer of a hypothermic patient to medical care.
+
+# Introduction
 
 This module will help provide an explanation of accidental hypothermia, what it is, how it occurs, and how to manage it's consequences. Each section will provide key summary points, and there will be aids for learning with flash cards provided.
 
