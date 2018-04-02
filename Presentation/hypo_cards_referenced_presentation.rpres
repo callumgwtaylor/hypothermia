@@ -1,0 +1,385 @@
+hypothermia_flashcards
+========================================================
+author: 570003057
+date: 2018/04/02
+autosize: true
+
+Question and Answer
+========================================================
+
+How low should core body temperature before considered accidental hypothermia? 
+
+35&deg;C
+
+Brown DJA, Brugger H, Boyd J, et al. Accidental hypothermia. N Engl J Med 2012; 367: 1930, 1938. 
+
+Question and Answer
+========================================================
+
+List three patient factors that can increase the risk of hypothermia (9 options)
+
+-  Cold Acclimatisation 
+-  Insulation 
+-  Exhaustion 
+-  Trauma 
+-  Calorie Deficit 
+-  Sleep Deprivation 
+-  Alcohol 
+-  Drug Ingestion
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+List three environmental factors that increase the risk of hypothermia (4 options)
+
+-  Temperature gradient 
+-  Cold medium (Air, Water, Snow, or Ice) 
+-  Wind speed 
+-  Rough water
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What mneumonic can be used to remember the presentation of someone with mild hypothermia?
+
+-  Stumbles 
+-  Fumbles 
+-  Mumbles 
+-  Grumbles
+
+Johnson Chris, Anderson Sarah R, Dallimore Jon, et al. Oxford handbook of expedition and wilderness medicine. Oxford University Press, 2015. 
+
+Question and Answer
+========================================================
+
+At what core temperature will a patient's cardiac output and ventilation start to fall?
+
+< 32&deg;C
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+At what core temperature will shivering start in hypothermia?
+
+36&deg;C
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+At what core temperature will shivering cease in hypothermia?
+
+<30&deg;C
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+At what core temperature would you expect a patient may be unconcious? 
+
+<28&deg;C
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+At what core temperature would a patient be at high risk of cardiac arrest ? 
+
+<28&deg;C
+
+Kottmann A, Blancher M, Pasquier M, et al. Avalanche victim resuscitation checklist adaption to the 2015 erc resuscitation guidelines. Resuscitation 2017; 113: e3, e4. 
+
+Question and Answer
+========================================================
+
+At 28&deg;C core body temperature,  what is the oxygen consumption of tissues?
+
+50% of normal
+
+Brown DJA, Brugger H, Boyd J, et al. Accidental hypothermia. N Engl J Med 2012; 367: 1930, 1938. 
+
+Question and Answer
+========================================================
+
+What are the temperatures used for the classic definition of hypothermia?
+
+-  Mild: 35&deg;C - 32&deg;C 
+-  Moderate: 32&deg;C tp 28&deg;C 
+-  Severe: < 28&deg;C
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+A hypothermic patient presents concious and shivering, what is their estimated temperature and stage of hypothermia?
+
+-  35&deg;C - 32&deg;C 
+-  Swiss Stage I
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+A hypothermic patient presents confused and not shivering, what is their estimated temperature and stage of hypothermia?
+
+-  32&deg;C - 28&deg;C 
+-  Swiss Stage II
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+A hypothermic patient presents unconcious and not shivering, what is their estimated temperature and stage of hypothermia?
+
+-  <28&deg;C 
+-  Swiss Stage III
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+A hypothermic patient presents and looks dead, what is their estimated temperature and stage of hypothermia?
+
+-  24&deg;C - 13.7&deg;C 
+-  Swiss Stage IV
+
+Morrison G. Management of acute hypothermia. Medicine 2017; 45: 135, 138 
+
+Question and Answer
+========================================================
+
+What is the standard of care to measure temperature in hypothermic patients needing airway support?
+
+Oesophageal temperature, measured at lower 1/3 of oesophagus
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+Name three potentially appropriate methods to measure temperature in hypothermia
+
+-  Oesophageal 
+-  Epitympanic 
+-  Bladder
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+List three actions to help rewarm a patient with mild hypothermia  (5 options)
+
+-  Get shelter from cold environment 
+-  Encourage movement (active and shivering) 
+-  Provide external heat 
+-  Provide dry clothes 
+-  Provide high carb food and drinks
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+List the layers recommended when evacuating a hypothermic patient, from innermost to outermost 
+
+-  Vapour Barrier System  
+-  External Heat Source 
+-  Dry Insulation 
+-  Reflective Heat and Wind Barrier
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What are the two most significant risks in movement of a patient with moderate to severe hypothermia? 
+
+-  Peri-rescue collapse 
+-  Arrhythmia
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What are the markers of cardiac instability/risk of cardiac arrest in a hypothermic patient?
+
+-  Temperature <28&deg;C 
+-  Systolic Blood Pressure <90mmHg 
+-  Ventricular Arrhythmia 
+-  Cardiac arrest
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+How should you rewarm a cardiovascularly stable patient in hospital?
+
+Minimally invasive methods: 
+
+-  Warm Environment 
+-  External Heat Sources 
+-  Warm IV Fluids
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+In hypothermic patients, how do you deliver shocks in cardiac arrest?
+
+Maximum three attempts when temperature less than 30&deg;C, then shock as normal when greater than 30&deg;C 
+
+Brown DJA, Brugger H, Boyd J, et al. Accidental hypothermia. N Engl J Med 2012; 367: 1930, 1938. 
+
+Question and Answer
+========================================================
+
+In hypothermic patients, how do you give adrenaline in cardiac arrest?
+
+Withold until temperature is greater than 30&deg;C. When temperature is less than 35&deg;C, double the time between doses
+
+Brown DJA, Brugger H, Boyd J, et al. Accidental hypothermia. N Engl J Med 2012; 367: 1930, 1938. 
+
+Question and Answer
+========================================================
+
+How warm enough to be "warm and dead"
+
+32-35&deg;C
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+Brain O2 consumption drops by how much every 1&deg;C in core body temperature?
+
+6%
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+At what temperature will the brain tolerate cardiac arrest 10x longer than normothermia?
+
+18&deg;C
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+If you cannot provide eCPR in hypothermic  cardiac arrest, what two alternative invasive methods of rewarming a patient are recommended by the International Commission for Mountain Emergency Medicine?
+
+-  Bladder Lavage with 3 way catheter 
+-  Peritoneal Lavage
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+Name three triggers to cease resuscitation in a hypothermic cardiac arrest (5 options)
+
+-  Serum Potassium >8/>12 mmol/L 
+-  Obvious Fatal Injuries 
+-  Non-Compressible Chest 
+-  Signs of Anoxic Brain Injury 
+-  Other Identified Non Reversible Cause of Cardiac Arrest
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+How long to wait for assessing signs of life in a patient with hypothermia?
+
+60 seconds
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What is the order of likelihood for cardiac arrest in avalanche (most to least likely, three options)
+
+-  Asphyxia 
+-  Trauma 
+-  Hypothermia
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+Give three reasons children have better outcome than adults in cold water drowning.
+
+-  Larger surface area/weight ratio 
+-  Reduced SubCutaneous Fat 
+-  Inefficient Shivering Mechanisms
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What is the likelihood of good neurological outcome in patients with primary hypothermia, cardiac stability, minimally invasive rewarming?
+
+100%
+
+Brown DJA, Brugger H, Boyd J, et al. Accidental hypothermia. N Engl J Med 2012; 367: 1930, 1938. 
+
+Question and Answer
+========================================================
+
+What is the likelihood of survival (independent of neuro outcome) in hypothermic patients with cardiac arrest treated with ECLS?
+
+50-100%
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What is the likelihood of survival (independent of neuro outcome) in hypothermic patients with cardiac arrest treated with non-ECLS?
+
+37% (1/3)
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What is the likelihood of survival with good neuro outcome in hypothermic patients with cardiac arrest treated with ECLS?
+
+36% (1/3)
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 
+
+Question and Answer
+========================================================
+
+What is the likelihood of survival (independent of neuro outcome) in hypothermic avalanche patients with cardiac arrest?
+
+8% (1/10)
+
+Paal P, Gordon L, Strapazzon G, et al. Accidental hypothermia-an update : The content of this review is endorsed by the international commission for mountain emergency medicine (icar medcom). Scand J Trauma Resusc Emerg Med 2016; 24: 111 

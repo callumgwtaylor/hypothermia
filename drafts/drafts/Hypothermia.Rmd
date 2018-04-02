@@ -1,0 +1,505 @@
+---
+title: "Hypothermia"
+output: html_notebook
+---
+
+> Education resource for medical staff travelling to a polar environment, on recognition and management of hypothermia in the prehospital environment. The plan is this will also  include some info on the safe transfer of a hypothermic patient to medical care.
+
+# Essay
+
+## Hypothermia Presentation
+
+### Mechanism Of Hypothermia
+
+### Co-existing Injuries
+
+## Hypothermia Management
+
+## Hypothermia Transfer
+
+
+# Paper Notes
+
+[@brown-nejm-2012]
+[@ruttmann-resuscitation-2017]
+[@kottmann-resuscitation-2017]
+[@morrison-acutemedicine-2017]
+[@svendsen-generalthoracic-2017]
+[@mccormack-resuscitation-2016]
+[@paal-scandinavian-2016]
+
+accidental hypothermia is involuntary drop in core body temperature to less than 35 degrees celcius (95 degrees farenheit) [@brown-nejm-2012]
+
+*not limited to expedition or polar environment* 1500 patients in US each year have hypothermia on their death certificate (not necessarily as primary cause) [@brown-nejm-2012]
+
+multiple different strategies to rewarm available. but not all strategies are available everywhere. in 2013 guidlines for management of rewairming did not take into account this variability, and didn;t take into acount transportation. [@brown-nejm-2012]
+
+initial response to cold is to maintin normal temp (37) through active movement and involuntary shivering.[@brown-nejm-2012]
+
+primary hypothermia then occurs when the heat production is overcome by the stresses of excessive cold. [@brown-nejm-2012]
+
+secondary hypothermia can occur in ill persons with various conditions, and can be in warm temperatures.[@brown-nejm-2012]
+
+with hypothermia, consciousness, breathing and circulation are impaired as the body cools. [@brown-nejm-2012]
+
+temperature gets less than 28 (82F), patients can engage in paradoxical undressing [@brown-nejm-2012]
+
+temperature gets less than 32 (90F), AF is common, not worrying as longs as other signs of cardiac instability are absent. [@brown-nejm-2012]
+
+diagnosis: history of cold exposure, or disease predisposing to hypothermia. plus cold trunk or core temperature of less than 35 (95F) [@brown-nejm-2012]
+
+staging: using vital signs with Swiss Staging System. HT1 to HT IV. The alternative is traditional (mild, mod, severe, profound). Using swiss staging is better than traditional when the temperature cant be measuresd [@brown-nejm-2012]
+
+staging: measure core temperature will inform transport/management. but thermometers not often available in prehospital setting. [@brown-nejm-2012]
+
+staging: measure core temperature in intubated patient using an oesophageal probe (in lower third) - can get falsely elevated when using warmed gases to ventilate. [@brown-nejm-2012]
+
+staging: probe in contact w/ tympanic membrane gives accurate brain temperature, as long as canal free of snow and wax and well insulated. [@brown-nejm-2012]
+
+staging:infrared, aural, oral thermometers are often inaccurate [@brown-nejm-2012]
+
+staging: bladder temperature may be falsely elevated with peritoneal lavage  [@brown-nejm-2012]
+
+staging: rectal probes can be inserted to greater than 15cm, but readings can lag behind core temperature [@brown-nejm-2012]
+
+staging: if can't meassure core accurately, use swiss staging system. [@brown-nejm-2012]
+
+treatment prehospital: priorities = carefully handle patient, basic/advanced life support, passive/active rewarming, transport to appropriate facility [@brown-nejm-2012]
+
+treatment prehospital: can be difficult to find a pulse! so check for signs of life for 60 seconds (persistent breathing/movement) [@brown-nejm-2012]
+
+treatment prehospital: if no signs of life, start CPR [@brown-nejm-2012]
+
+treament prehospital: full body insulation/rewarming, as long as not impeding cpr or transfer to hospital [@brown-nejm-2012]
+
+treatment prehospital: chemical, electrical and forced air heating packs/blankets proved enough heat transfer. [@brown-nejm-2012]
+
+
+treatment: IV fluids should be warmed to 38 to prvent further heat loss. [@brown-nejm-2012]
+
+IV fluids cool quickly prehospitally [@brown-nejm-2012]
+
+often need lots of fluids in hypothermia as you get a cold diuresis (this is as theres less of antidiuretic hormone and there's hypothermia induced vasoconstriction) [@brown-nejm-2012]
+
+transport: conscious shivering patients (HT1) can be treated in the field if uninjured, or evacuated if unable to rewarm in field [@brown-nejm-2012]
+
+transport: patients with impaired consciousness (HT II III or IV) should be assesed for cardiac instability. patients stable cv should be actively and minimally invasive rewarmed. [@brown-nejm-2012]
+
+minimally invasively rewarmed is warm environment, chemical/electrical, forced air heating with warm parenteral fluids [@brown-nejm-2012]
+
+patients prehospital instability of cv system (Systolic <90, ventricular arrhythmias) or in cardiac arrest, should be transferred to a centre capable of providing ECMO or cardiopulmonary bypass [@brown-nejm-2012]
+
+CPR: when cooled theres a decrease in O2 requirements cerebrally. full neuro recovery can happen evern after cpr for hours [@brown-nejm-2012]
+
+CPR: consider termination of CPR if serum potassium is >12mmol/L [@brown-nejm-2012]
+
+CPR: cnsider use of a mechanical chest -compression device [@brown-nejm-2012]
+
+rescue collapse is cardiac arrest related to extrication/transport of patient with deep hypothermia (HT III) [@brown-nejm-2012]
+
+afterdrop is continued core cooling after rescue, doesn't seem to occur ehen active rewarming and concurrent oesphageal device [@brown-nejm-2012]
+
+rewarming: inhospital: if hypothermia and stable, go for active external and minimally invasive rewarming (Warm environment, chemical, electircal, forced air heating, warm parenteral fluids) [@brown-nejm-2012]
+
+rewarming: inhospital: invasive: there are increased risk of complications plus abscence of evidence that they improve outcome for stable patients. (bodycavity lavage, endovascular devices, extracorpoeral heating systems) [@brown-nejm-2012]
+
+rewarming: inhospital: invasive: keep tips of catheters and guidewires away from the heart to minimise arrhythmia. [@brown-nejm-2012]
+
+rewarming: inhospital: invasive: echom for hypothermia and cardiac instability when no response to medical management [@brown-nejm-2012]
+
+physiology: at core temperature of 28 C oxygen consumption and pulse rate are decreased by 50%. But there is no defined minimum sufficient circulation. [@brown-nejm-2012]
+
+ecmo: when signs of life and vital signs are absent (HT IV) then ecmo/bypass is safe and efficient. [@brown-nejm-2012]
+
+ecmo: ecmo increases survival without neurological impairment from 47 to 63% in (?what) patients. [@brown-nejm-2012]
+
+ecmo: survival in HT IV without ecmo is less than 37% [@brown-nejm-2012]
+
+rewarming: there is recognised incidence of severe pulmonary failure after rewarming (ecmo is good for that) [@brown-nejm-2012]
+
+if ecmo not possible consider alternative internal rewarming techniques (thoracic lavage) [@brown-nejm-2012]
+
+if rosc post hypothermia expect multiorgan failure [@brown-nejm-2012]
+
+how warm is warm enough to be warm and dead? 32 C [@brown-nejm-2012]
+
+als in hypothermia: ERC suggest three shocks, plus no adrenaline until temperature greater than 30. plus double time between doses until core temperature greater than 35. [@brown-nejm-2012]
+
+potassium: severely elevated serum potassium is associated with non survival and a marker of hypoxia before cooling. Highest recorded potassium in patients with AH were 11.8 in a 31 month child. 9.5 in a 13 years. and 6.4 in an adult who was buried in an avalanche. [@brown-nejm-2012]
+
+potassium: 12 mmol should be a cut off for when CPR is futile in hypothermia. 8 should be a cut off for when adult has been buried in avalanche. 10-12 should be consultation with ecmo team as to whether to go ahead. low K does not = good survival [@brown-nejm-2012]
+
+trauma: trauma worsens thermoregulation. patients with multiple traumas are susceptible to hypothermia. hypothermia increases bleeding nd might increase mortality. bleeding increases as clotting factor activity reduces with decreased temp. there is a critical coagulopathy below 34 degrees. lab testing warms blood so coagulopathy won't be noted! [@brown-nejm-2012]
+
+avalanche burial without vital signs. the fastest you can cool or is known to be cooled was 9C an ohour. so if burial less than 35 mins life threatening hypothermia unlikely. so if no vital signs consider trauma and hypoxia. [@brown-nejm-2012]
+
+avalanche: if buried > 35 mins, airway packed with snow, asystolic. Consider hypoxia above hypothermia. CPR is unlikely to be beneficial. if buried > 35 mins but airway is not blocked with snow then hypothermia is suspected and patient should be treated accordingly. [@brown-nejm-2012]
+
+avalanche: core temperature can be used to estimate time of burial. less than 32 = longer than 35 degrees celcius [@brown-nejm-2012]
+
+drowning without vital signs: drowning in cold water may be better than in warm water. if they were able to breathe than likely body cooled before hypoxia. so survival without neurological impaiment is possible. [@brown-nejm-2012]
+
+outcome: lowest reported temperatures in patients with full neurologic recovery are slightly less than 14 degrees. [@brown-nejm-2012]
+
+outcome: Stage IV hypothermia patients will likely have organ failure. the most common cause of death in patients with hypothermia is pulmonary oedema. [@brown-nejm-2012]
+
+outcome: primary hpothemia and cardiac stability who've been actively and minimally invasively rewarmed have neurological intact survival of approx 100% [@brown-nejm-2012]
+
+patients with hypothermia and cardiac arrest have neuro intact survival of 50% when using ecmo [@brown-nejm-2012]
+
+full recovery can happen if hypoxia doesnt precede hypothermia. especially if extracorportial rewarming used. [@brown-nejm-2012]
+
+eCPR is the standard of care for patients not responding to ALS CPR in hypothermia [@ruttmann-resuscitation-2017]
+
+Triage Algorithm for the International Commission for Alpine Rescue (ICAR) for determining who gets ecpr [@ruttmann-resuscitation-2017]
+
+one study in innsbruck provided ecpr to patients with refractory cardiac arrest, plus 24-48 hours ecls post for cardio respiratory failure. patients with rosc without ecls whould use forced air rewarming. this was patients with no history of trauma, and was not urban hypothermia. [@ruttmann-resuscitation-2017]
+
+was split into avalanche, non avalanche patients [@ruttmann-resuscitation-2017]
+
+was split into moderate (28-32) and severe (<28) hypothermia [@ruttmann-resuscitation-2017]
+
+innsbruck study found 96 patients over 12 years with hypothermia and OHCA to analyse. overall hospital survival was 41%. favourable neurolgical outcome was 25%. [@ruttmann-resuscitation-2017]
+
+favourable neurological outcome was glasgow pittsburgh scores 1 or 2 (which means normal life, to moderate disability but still able to perform independent activites of daily life [@ruttmann-resuscitation-2017]
+
+witnessed cardiac arrest was most powerful predictor of survival (RR 10.8) avalanche burial is independent predictor of poor outcome (RR 0.24) [@ruttmann-resuscitation-2017]
+
+avalanche burial OHCA patients hada 8.1 % survival. [@ruttmann-resuscitation-2017]
+
+37 cases of avalanche OHCA patients,2 survived long term with good cerebral performance and a normal life [@ruttmann-resuscitation-2017]
+
+hospital survival with good neuro outcome was 35.6% in non-avalanche cases. no variation depending on rosc pre hospital. [@ruttmann-resuscitation-2017]
+
+ROSC prior to admission in avalanche atients had higher rates of survival to discharge [@ruttmann-resuscitation-2017]
+
+ROSC pre hospital and body core temperature are not predictive for hospital survival with favourable neurological outcome [@ruttmann-resuscitation-2017]
+
+non avalanche patients with ROSC prior to admission were warmer, and submersed for shorter periods of time. [@ruttmann-resuscitation-2017]
+
+non avalanche patients with CPC 1/2 were more likely to have witnessed cardiac arrests [@ruttmann-resuscitation-2017]
+
+in CT within 12 hours of admisison, 17% of survivors with good neurological outcome (4/24) had attenuation of grey/white matter or sulcal effacement. [@ruttmann-resuscitation-2017]
+
+pathology seen on CT increased risk of unfavourable neuro pathology by 11.7x [@ruttmann-resuscitation-2017]
+
+patients with lower NSE and S-100BP were more likely to have a favouable neurological outcome. this was at a comparable rate to what is seen in normothermic cardiac arrest. [@ruttmann-resuscitation-2017]
+
+overall survival with good neuro outcome was 25%, non avalanche patients this increased to 35.6% [@ruttmann-resuscitation-2017]
+
+convincing data showing superiority of ECLS rewarming in non arrested patients is missing.  [@ruttmann-resuscitation-2017]
+
+hypothermic cardiac arrest is unlikely to be reversed without rewarming. [@ruttmann-resuscitation-2017]
+
+shockable rhythm was not a factor in improved survival in this patient cohort [@ruttmann-resuscitation-2017]
+
+favourable neurological outcome was found in more than a third of all non-avalanche patients with hypothermic OHCA admitted to a trauma center [@ruttmann-resuscitation-2017]
+
+2014 International Commision of Mountain Emergency Medicine developed avalanche victim resuscitation checklist (AVRC). Then in 2015 the European REsus Council included an avalanche victim algorithm. In 2017 the AVRC was upbdated to be consisistent.[@kottmann-resuscitation-2017]
+
+
+Hypothermic Cardiac arrest may occur at 30C or less. [@kottmann-resuscitation-2017]
+
+
+In avalanche victims the  AVRC emphasises the ECG above airway. This is to detect peri-rescue collapse as early as possible. [@kottmann-resuscitation-2017]
+
+
+Core temperature should be measured immediatly after extrication with all victims in cardiac arrest.[@kottmann-resuscitation-2017]
+
+AVALANCHE VICTIM RESUSCITATION CHECKLIST TRIAGE IMAGE [@kottmann-resuscitation-2017]
+
+Hypothermia is involuntary drop in core body temp to less than 35C (less than 95.8F) [@morrison-acutemedicine-2017]
+
+
+Most common for adults 30-49. Death most common in those >65. [@morrison-acutemedicine-2017]
+
+
+Hypothermia occurs when excessive cold exposure overcomes ability to generate heat. [@morrison-acutemedicine-2017]
+
+
+Initial exposure to cold causes movement and shivering, increaed metabolism. [@morrison-acutemedicine-2017]
+
+
+Vigourous shivering can increase heat by 5-6 times resting metabolic rate = increase core temp by 3-4C. Problem with shivering is it is metabolically large amount of limited energy, uncomfortable, and stress on cardiovascular. [@morrison-acutemedicine-2017]
+
+
+Wheen cold initially the body increases ventilation and cardiac output (until <32). [@morrison-acutemedicine-2017]
+
+
+When cold <32 ventilation and cardiac output start to fall. With corresponding hypoxia, hypercarbia, acidosis. [@morrison-acutemedicine-2017]
+
+
+When <28 patients usually unconcious. [@morrison-acutemedicine-2017]
+
+
+Bradycardia starts and shivering stops at <30 [@morrison-acutemedicine-2017]
+
+
+Rhythm changes (atrial ectopics, atrial fibrillation, ventricular fibrillation) at 30 [@morrison-acutemedicine-2017]
+
+
+Less than 28 the heart v susceptible to VF and asystole. [@morrison-acutemedicine-2017]
+
+
+ADH decreases, leading to cold diuresis. Also fluids leak into extravascular = circulatory collapse. [@morrison-acutemedicine-2017]
+
+
+Skin becomes white/oedematous +/- hypothermic tissue injury. [@morrison-acutemedicine-2017]
+
+
+Cells become hypoxic and die = increased potassium [@morrison-acutemedicine-2017]
+
+
+<36 - shivering, increased cardiac output and ventilation [@morrison-acutemedicine-2017]
+
+
+<34 - decreased neurological function and GCS [@morrison-acutemedicine-2017]
+
+
+<32 - increased risk of arrhythmias and cardiac arrest [@morrison-acutemedicine-2017]
+
+
+<30 - bradycardia, no more shivering [@morrison-acutemedicine-2017]
+
+
+<28 unconcious and cardiac arrest [@morrison-acutemedicine-2017]
+
+
+Hypothermia risk goes up with alcohol and drug ingestion. Exhaustion, Illness, Trauma also decrease reserve. [@morrison-acutemedicine-2017]
+
+
+Assess - get history from patient or witness.  Nature, exposure, and duration of cold insult. PMH to identify causes of decreased reserve. [@morrison-acutemedicine-2017]
+
+
+ABCDE approach. Be aware of concurrent conditions.  Cardiac monitoring is essential. [@morrison-acutemedicine-2017]
+
+
+Most accurate measurement is oesophagel thermometer. Can only realistically used in intubated patients. Tympanic membrane thermometers can give accurate reading as long as canal free of debris/ice and adequate cardiac output. [@morrison-acutemedicine-2017]
+
+
+Bladder and rectal temperatures lag behind core temperature. Not recommended. [@morrison-acutemedicine-2017]
+
+
+Oral and infrared thermometers can't read accurately less than <35 (designed for pyrexia!). Not recommended. [@morrison-acutemedicine-2017]
+
+
+Classic definition of hypothermia: Mild (32-35) Mod (28-32) Severe (<28). [@morrison-acutemedicine-2017]
+
+
+Swiss definition. Stage 1 (Concious and shivering. 32-35) Stage 2(Impaired consciousness, no shivering. 28-32) Stage 3 (Unconcious no shivering. Vital signs present or absent. <28) Stage 4 (Apparent death 13.7-24). Stage 5 (Death as result of irreversible hypothermia <13.7) [@morrison-acutemedicine-2017]
+
+
+Treat mild: Passive Rewarming. Dry clothes. Blankets. Warm Environment. Sweet Drinks. Keep Moving. Forced air heating packs (more effective than simple blankets). High carb foods and liquids. [@morrison-acutemedicine-2017]
+
+
+Treat mod: Manage horizontally. Minimal movement. Patients who stop shivering will loose temp. You're keeping still to avoid arrhythmias. Target O2 94-98. Insulate and rewarm as per mild. Also warm IV fluids. Avoid Internal jugular lines because of risk of VF. [@morrison-acutemedicine-2017]
+
+
+Mod To Severe: Large volime of fluid during rewarming as vasodilation causes expansion of intravascular space. Give boluses rather than infusion as will cool less. Hartmanns should be avoided as cold liver can't metabolise lactate. Glucose solution can be given for hypoglycaemia. [@morrison-acutemedicine-2017]
+
+
+Severe. <28 means need for airway management and consider invasive rewarming. Haemodialysis is mose available but needs adequate blood pressure. If cardiac instability or cardiac arrest despite medical treatments, consider ECMO or cardiopulmonary bypass. ECMO has better outcomes than cardiopulmonary bypass. [@morrison-acutemedicine-2017]
+
+
+Severe. Vasopressors can be used but remember arrhythmia risk is high. There is also risk of peripheral tissue ischaemia and injuury. Should be ideally avoided if temperature is <30 to avoid risk of arrhythmia. [@morrison-acutemedicine-2017]
+
+
+Severe. Body cavity lavage. Plural or peritoneal. Two catheters are needed. One warm in. One warm out. There is little evidence for this. May be only option for centres without ECMO/CBP. [@morrison-acutemedicine-2017]
+
+
+Severe arrested. Modified ALS guidelines and resus council guidelines. [@morrison-acutemedicine-2017]
+
+
+Severe arrested. Don't diagnoses till warm as they can have a slow slow volume pulse with unrecordable blood pressure. Breathing can be slow but still detectable.  [@morrison-acutemedicine-2017]
+
+
+Brain is capable of tolerating arrest for ten times longer at 18C than 37C.  Survival at cardiac arrest recorded at 13.7 with 6.5 hours of CPR. [@morrison-acutemedicine-2017]
+
+
+Modifications for arrest. Check for signs of life at 1 minute whether low volume circulation [@morrison-acutemedicine-2017]
+
+
+Modifications for arrest. Use mechanical chest compressions where possible as a cold chest is stiff. [@morrison-acutemedicine-2017]
+
+
+Modifications for arrest. Drugs can be limited in hypothermia. Adrenaline can be witheld until temperature is more than 30. The double the interval between drugs until temp more than 35. [@morrison-acutemedicine-2017]
+
+
+Modifications for arrest. Hypothermia means heart can be refractory to pacing and defibrillation. [@morrison-acutemedicine-2017]
+
+
+Modifications for arrest. If VF persists after three shocks. Hold further defibrillation until >30 [@morrison-acutemedicine-2017]
+
+
+Modifications for arrest. Pacing not indicated for bradycardia unless remains haemodynamic compromise at normal temperatures. [@morrison-acutemedicine-2017]
+
+
+Resus should be witheld if obvious lethal/fatal injuries or non-compressible chest. [@morrison-acutemedicine-2017]
+
+
+Most common cause of death in mod to severe hypothermia. Leading cause of death is pulmonary oedema in patients  with organ failure. May not occur for up to 24 hours after arrival in hospital. [@morrison-acutemedicine-2017]
+
+Survival in arrest without ecmo/cpb survival is 37% [@morrison-acutemedicine-2017]
+
+Severe hypothermia with ecmo, 47 to 63% [@morrison-acutemedicine-2017]
+
+Sixty nine patients rewarmed by ECC from 1987 to 2015, Haukeland University Hospital Bergen, Norway. Eighteen patients survived. When excluding the patients with suspected primary hypoxia, there's a survival of 46.7%. But not to ignore primary hypoxia patients, 4 children with presumed primary hypoxia were treated an 2 survived with good neuro outcome. No difference in survival over years. Survivors had lower serum potassium, higher pH, lower core temperature and shorter CPR. Average CPR times in survivors (before commencements of ECC) was 95mins! Average cpr time in non survivors was 150 mins.
+
+Haukeland patient mix: Sustained cold exposure (27.9%). Avalanche (5.9%). Immersion/submersion (66.2%). [@svendsen-generalthoracic-2017]
+
+
+Haukeland had a patient successfully rewarmed with a potssium of 11.8 [@svendsen-generalthoracic-2017]
+
+
+Haukeland non survivors. 5/49 had potassium of greater than 12 (12 is suggested as cutoff) [@svendsen-generalthoracic-2017]
+
+
+Survival rate amongst primary hypothermic cardiac arrest patients rewarmed by ECC is stated at approx 50% [@svendsen-generalthoracic-2017]
+
+
+Rewarming on VA-ECMO is associated with improved survival versus bypass. No patients with ROSC post rewarming died of pulm oedema in an ECMO group. [@svendsen-generalthoracic-2017]
+
+
+Post rewarming. Can get cardiac dysfunction. Can get significant increase pulm artery pressures. (30-35mmHg) [@svendsen-generalthoracic-2017]
+
+
+Hypothermia gets significant microvascular fluid extravasation. Advantage of heart lung machine allows fluid offloading. [@svendsen-generalthoracic-2017]
+
+Scottish case report. Downtime of 167 mins (VF). Core temperature of 21C. Transfer to trauma unit, then subsequent transfer to regional cardiothoracic unit for commencement of VA ECMO. Extubated that evening and discharged within one week. [@mccormack-resuscitation-2016]
+
+From International Commission for Mountain Emergency Medicine [@paal-scandinavian-2016]
+
+Substatntial advances is management of accidental hypothermia with and without cardiac arrest in last decade [@paal-scandinavian-2016]
+
+Elderly are at increased risk of AH due to decreased physiological reserce, chronic disease, and medications that impair compensation. [@paal-scandinavian-2016]
+
+Lowest range of survival are 13.7C for AH  [@paal-scandinavian-2016]
+
+Cooling rates depend on factors such as cold acclimatisation, body size, age, insulation, ability to shiver, body movement, temperature gradient, amount of immersion in cold medium (Air, Snow, Water), local conditions to increase cooling (wind speed, rough water) [@paal-scandinavian-2016]
+
+For good outcomes you need brain cooling before brain hypoxia [@paal-scandinavian-2016]
+
+Need careful movement to avoid precipitating life threatening arrhthmia, and staying in horizontal position to minimise the likelihood of rescue collapse. [@paal-scandinavian-2016]
+
+Victim of immersion can keep head out of cold water they have up to one hour before this becomes a life threatening problem. [@paal-scandinavian-2016]
+
+Submersion duration (head under water). 2.5-5min predicts good outcome. 10 mins = poor outcome. >25mins almost no chance of survival. [@paal-scandinavian-2016]
+
+Examples of good recovery after long submersion mainly occur in small children who rapidle became hypothermic prior to hypoxia. [@paal-scandinavian-2016] Children cool more rapidly than adults, infants have an inefficient shivering mechanism. Chlidren have less subcutaneous fat. Children have a higher surface area to weight ratio. Aspiration of cold water into a small child will immediately cool heart, and blood in carotids, and brain. Small child sized head cools faster than adult sized  head. [@paal-scandinavian-2016]
+
+There are no methods to predict early who will survive or long term neuro outcome of drowning. So current guidance is aggressive management of all cases, particularly young hypothermic victims. [@paal-scandinavian-2016]
+
+Improved drowning outcomes (one month survival, survival to hospital discharge) when full CPR (with ventilation) immediate, plus EMS arrival <9mins. [@paal-scandinavian-2016]
+
+V poor drowning outcomes if ALS takes >30mins to get rosc. [@paal-scandinavian-2016]
+
+Cooling rates in avalanche victims. very variable. Fastest rate recorded is 9C/hr. [@paal-scandinavian-2016]
+
+In avalanche survival drops dramatically after 35mins [@paal-scandinavian-2016]
+
+If avalanche victim found in cardiac arrest the outcome is poor even when ECLS is used. [@paal-scandinavian-2016]
+
+Victims are unlikely to survive if buried >60 min (or initial core temp <30C), and in cardiac arrest with obstructed airway on extrication. Or buried and in cardiac arrest with initial serum K of >8mmol L. [@paal-scandinavian-2016]
+
+Swiss System (Hypothermia I-IV/V) is useful guidance for prehospital situation. Cardiac arrest can occur at any point between <32C, but vital signs may still be present in upper teens.
+
+Temperature measurement sites in decreasing invasiveness. Pulmonary artery, Oesophagus, Bladder, Rectum, Tympanic Membrane, Oral Cavity, Skin. Pulmonary artery temperature is too invasive for routine use, and may precipitate arrhythmia. Oesophageal is close to pulm artery temp if placed in lower third of oesophagus. Standard of care for secured airway patients.  
+
+Problems with bladder or rectal temp. May lag behind rapid cooling and rewarming. Falsely high if peritoneal lavage used. Impractical for prehospital setting.
+
+Bladder temp is practical for inhospital patients. Urinary catheter with a temperature probe.
+
+Epitympanic temp reliable for patients with spont circulation. Give falsely low values if unstable or absent circulation. Only reliable after stabilising for a few minutes if used in cold environment. Currently no epitympanic thermometers with an insulation barrier available for out of hospital use. Infrared tympanic thermometers are inaccureate in cold environments, in hypothermia patients, if head is cold, or rapid hypothermia. [@paal-scandinavian-2016]
+
+Oral temperature is inaccurate in cold. [@paal-scandinavian-2016]
+
+Skin temperature does not reflect core reliable due to poor peripheral circulation. [@paal-scandinavian-2016]
+
+Prehospital: Shivering and active movements are efficient heat producers and rewarming strategies, for concious patents. [@paal-scandinavian-2016]
+
+Prehospital: Shivering increases heat production by five times. [@paal-scandinavian-2016]
+
+Prehospital: Warm sweet non alcoholic drinks don't rewarm patients. But they do provide carbs to fuel shivering. [@paal-scandinavian-2016]
+
+Prehospital: Heat redistribution within body when taken out of cold environment can case fall in core temp called afterdrip. This could be a 0.5 to 1 C drop, but no adverse features have been observed with this. [@paal-scandinavian-2016]
+
+Prehospital: Optimum insulation is important. Insufficient insulation from cold, wet, wind will increase risk of CA. [@paal-scandinavian-2016]
+
+Prehospital packaging: In a spontaneous circulation patient should be sealed impermeable vapour barier excluding the face, an external heat source, thick dry insulation, and a wind barrier that reflexts heat. Removing wet clothes will increase patient comfort but increase cooling in cold/windy enviornment. Is unnecessary if vapour barrier used.  [@paal-scandinavian-2016]
+
+Prehospital packaging: In spont circulationExternal heat (chemical heat packs, warm water bottles, forced air blankets) should e applied to head, torso, and neck in transport. Never directly to skin from risk of burns. [@paal-scandinavian-2016]
+
+Prehospital packaging in spont circulation: External layer should be  wind barrier and heat reflector. [@paal-scandinavian-2016]
+
+Prehospital packaging in spont circulation: Short transports <60min external heating may be minimully helpful and expensive. Longer journeys (>60mins) active heating should be used for HT I-III patients. [@paal-scandinavian-2016]
+
+Packaging for atients in CA should have core temp monitored and heat delivery to maintain current core body temp. Prehospital rewarming should be avoided, transfer should be to ECLS capable centre.  [@paal-scandinavian-2016]
+
+Packaging of patients, careful handling and avoidance of rough movements are essential. Transfer horizontally to decrease position asscoiated changes in venous return, which may increase risk of post rescure CA. [@paal-scandinavian-2016]
+
+Triage of patients in Cardiac Arrest: Brain O2 consumption drops by 6% every 1C drop in core temp. So is 16% at 15C when compared to normothermia. [@paal-scandinavian-2016]
+
+At 18C the brain tolerates CA for 10 times longer than 37C. [@paal-scandinavian-2016]
+
+Affecting outcome of patients from hypothermic arrest: 1) hypoxia, 2) patient (age, comorbid, trauma) 3) speed of cooling 4) environment, 5) CA features (CPR delay/quality, hypoxia before arrest) 6) rescue factors 7) proximity to hospital 8) hospital trained in ECLS [@paal-scandinavian-2016]
+
+Avalanche victims with best neuro outcome with CA were found in VF or pulseless electrical activity. Asystole avalanche victim outcomes are very poo (generally means hpoxia preceeded CA, leading to brain damage and death within minutes) [@paal-scandinavian-2016]
+
+No good management tools to predict outcome in hypothermia. So continue with no one is dead until warm and dead. Reasons to withold ECLS could be hypoxia before hypothermia, concurrent unsurvivable injury, K > 12. K >12 patients wont survive, but also many patients with K < 12 will not survive. [@paal-scandinavian-2016]
+
+As CT scanning showed increased K correlates with brain anoxia, ERC guidelines are K < 8 for avalanche victims and and K < 12 for all other cases (these numbers also based on case reports of survivors) [@paal-scandinavian-2016]
+
+Small risk of inducing VF through intubation of hypothermia. Be aware of CV depression of most induction agents. Ketamine may be safe but poteintial risk of sympathomimetic effects of hypothermic heart. Succinylcholine may increase K further.
+Avoid hypo/hypercapnia because of risk of arrhythmias. [@paal-scandinavian-2016]
+
+CPR may need to be prolonged. Mechanical CPR has advantage for prolonged, for transfer to ECLS centre, for initiation of ECLS. Recommend ETCO2 monitoring. [@paal-scandinavian-2016]
+
+ERC recommends withfolding adrenalin in hypothermic CA. Limiting defibrillation to three attempts until temp >30. Americans recommend standard ALS. [@paal-scandinavian-2016]
+
+Most attempts at defibrillation are unsuccessful when <28C. International Commission for Mountain Emergency Medicine states reasounable to have max 3 attempts when <30. [@paal-scandinavian-2016]
+
+In prolonged transport, difficult terrain. Intermittent CPR may be useful. [@paal-scandinavian-2016]
+
+Most arrhythmias (bradycardia, AV block, AF, nodal rhythm, QRS prolongation, Osborn J waves) are benign in accidental hypothermia, should resolve with rewarming. [@paal-scandinavian-2016]
+
+Patients should be transferred to ECLS centres when haemodynamic instability or CA. Good neuro recovery is possible following many hours of CPR. [@paal-scandinavian-2016]
+
+Patients at risk of CA (<28C, Vent arrhythmia, Systolic BP <90mmHg), or those arrested should be transferred to ECLS centre.[@paal-scandinavian-2016]
+
+Rewarming can be passive, active external, active internal. [@paal-scandinavian-2016]
+
+Dont rewarm frostbite until core temp >34C. [@paal-scandinavian-2016]
+
+All hypothermic patients have significant IV fluid requirements. [@paal-scandinavian-2016]
+
+Initial cooling of patients may have hyperventilation and respiratory alkalosis. [@paal-scandinavian-2016]
+
+Later cooling may have mixed acidosis as falling metabolic rate and CO production. Increased lactate from shivering. Impaired hepatic function. Normocapnia at 37 would be hypocapnia at 5. pH and PaCO2 do alter with temperature (as seen in induced hypothermia). To maintain Pa)2 in normal range, PaO2 should be corrected for nrmal body tmeprature. [@paal-scandinavian-2016]
+
+In hypothermic patient with CA, non-ECLS rewarming is only indicated if ECLS is not available for any reason. Rewarming by non-ECLS is reliant on a circulation, and so is v slow without ECLS. Pleural lavage may impair chest compressions in CA. Haemodialysis may impair circulation and ineffective without native circulation. [@paal-scandinavian-2016]
+
+Theoretically the most dangerous point is between 28C and ROSC as that's when the brain is at risk. [@paal-scandinavian-2016]
+
+Current expert opinion (no evidence exists to guide non ECLS rewarming of hypothermic heart) is high quality mechanical CPR, rewarm as quickly as possible until ROSC, one or more external heat delivery devices around trunk to minimise chance of afterdrop, warm bladder lavage through 3 way catheter, or warm peritoneal lavage. Once >28C should try defibrillation. Prolonged CPR does not preclude survival. As high quality CPR is possible with a mechanical device, transfer to an ECLS centre is recommended. [@paal-scandinavian-2016]
+
+ECLS is treatment of choice in presence of hypothermic CA or circulatory insufficiency. Is safe and higher survival than other methods. Advantages, restores circulation, maintains oxygenation and CO2 removal, fast and controllable rewarming. [@paal-scandinavian-2016]
+
+Majority of patients with primary hypothermia will have perfusing rhythm until <28C. Indication for ECLS in arrested patients 28-32 is controversial as higher chance of non hypothermic cause (therefore less chance of good neuro outcome) [@paal-scandinavian-2016]
+
+Use of ECLS for non arrested patients (HT III) when following: failure to rewarm with active external and minimally invasive methods, life threatening arrhythmia, hypotension (<90mmHg), resp failure, refractory acidosis. If young and healthy with HT III consider keep going without ECLS as can tolerate the hypothermia better. [@paal-scandinavian-2016]
+
+VAECMO is preferable to CPB as more available, lower heparin need, and can do prolonged support (which may be needed in post rewarming pulmonary oedema) [@paal-scandinavian-2016]
+
+The use of new  heparinised VA-ECMO systems allows avoidance of systemic heparinisation. This means that theres availability of ECMO in hypothermic patients with trauma.[@paal-scandinavian-2016]
+
+Risks of rewarming with ECMO. Risk of gas bubble formation, and reperfusion induced cell damage. Keeping low flows, low pressure and gradual rewarming seems to avoid this.[@paal-scandinavian-2016]
+
+If using ECLS, don't use inotropes/vasopressors unless weaning. [@paal-scandinavian-2016]
+
+When to stop ECLS? When no ROSC at 32-35C. OR when other invod. UNcontrolable haemorrhage, new cause of CA, signs of anoxic brain injury. [@paal-scandinavian-2016]
+
+Children may still have signs of life at low temperatures (mid teens), and normal cardiac rhythm when temp is less than 20C [@paal-scandinavian-2016]
+
+Hospitals should use minimally invasive rewarming for non-arrested, otherwise healthy patients. ECLS has improved management for hypothermic cardiac arrest, hypothermic patients at risk of CA should be transferred to an ECLS centre.  [@paal-scandinavian-2016]
+
+
