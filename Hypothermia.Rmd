@@ -15,11 +15,11 @@ csl: sage-vancouver.csl
 
 This short ebook has been designed as an educational resource for medical staff who are planning on working in a polar environment, and may be responsible for patients with hypothermia.
 
-It follows the current guidelines for both prehospital and hospital resuscitation of hypothermia. These guidelines have been developed in high resource settings, and as such some treatment options may be impossible on xpedition, depending on evacuation capacity.
+It follows the current guidelines for both prehospital and hospital resuscitation of hypothermia. These guidelines have been developed in high resource settings, and as such some treatment options may be impossible on expedition, depending on evacuation capacity.
 
-Each section in this book ends with brief key points, to aid retention of the most important parts to remember when treating a patient with hypothermia. To help learn this material, a flashcard set is available for download. A preview presentation of the flashcards can be found in the flashcard setting.
+Each section in this book ends with some brief "Key Points", to aid retention of some of the most important facts. To help learn this material, a flashcard set is available for download. A preview presentation of the flashcards can be found in the flashcard setting.
 
-The advantage of hosting online is that any text changes can be easily made. Please feel free to make suggestions on how to make this book more useful for others.
+The advantage of hosting this material online is that any text changes can be easily made. Please feel free to make suggestions on how to make this book more useful for others.
 
 Many thanks,
 Student Number 570003057.
