@@ -28,7 +28,8 @@ Student Number 570003057.
 
 Accidental Hypothermia (AH) is defined as "an involuntary drop in core body temperature to less than 35°C" (95°F). [@Brown2012-ok],[@Morrison2017-wa] This can be "primary hypothermia", where the body's heat production mechanisms are overcome by excessive cold, or "secondary hypothermia" where concurrent illness impairs our ability to maintain normothermia (this can occur in warm temperatures) [@Brown2012-ok] The lowest temperature a human is known to have survived AH was 13.7°C (this patient survived after 6.5 hours of CPR!) [@Paal2016-mg]
 
-Multiple patient factors increase a person's risk of hypothermia, these could be expedition specific including: lack of cold acclimatisation, lack of insulation, exhaustion, trauma, calorie deficit, and sleep deprivation. Alcohol and drug ingestion also increase risk of AH. [@Morrison2017-wa],[@Paal2016-mg]
+Multiple patient factors increase a person's risk of hypothermia, these could be expedition specific including: lack of cold acclimatisation, lack of insulation, exhaustion, trauma, calorie deficit, and sleep deprivation. Alcohol and drug ingestion also increase risk of AH.
+ [@Morrison2017-wa],[@Paal2016-mg]
 
 Whilst those aged 30-49 are the most frequently treated for hypothermia, death from hypothermia is most common in those over 65 years. The elderly can be more at risk from chronic disease, and medications that impair their ability to compensate in cold environments. [@Morrison2017-wa],[@Paal2016-mg]
 
@@ -286,39 +287,19 @@ Currently there is no way to accurately predict who will survive with a good neu
 
 # Prognosis of hypothermia, and hypothermic cardiac arrest.
 
-Patients with primary hypothermia and cardiac stability should have a 100% chance of neurologically intact survival when treated with active minimally invasive rewarming. [@Brown2012-ok]
+Amongst patients with primary hypothermia and cardiac stability, the chance of a neurologically intact survival is close to 100% when treated with active minimally invasive rewarming. [@Brown2012-ok]
 
-Patients with hypothermia driven cardiac arrest treated with ECLS,  have an estimated survival between 50-100%.[@Brown2012-ok]. Without ECLS these patients have an estimated survival of 37%. [@Morrison2017-wa]  
+Survival in patients with hypothermia driven cardiac arrest, when treated with ECLS,  is found to be between 50-100%.[@Brown2012-ok]. Without ECLS estimated survival drops to 37%. [@Morrison2017-wa]  
 
-ECLS patients are more likely to survive when treated with VA-ECMO than with cardio-pulmonary bypass. One major factor here is the high percentage survival (100% in one trial) of post ROSC pulmonary oedema in VA-ECMO patients, something that is usually responsible for the highest proportion of deaths in post ROSC hypothermia patients. [@Brown2012-ok],[@Svendsen2017-nm],[@Morrison2017-wa]
+Looking at different forms of ECLS, patients are more likely to survive when treated with VA-ECMO than with cardio-pulmonary bypass. One major explanatory factor here is the high percentage of survival (100% in one trial) of post ROSC pulmonary oedema in VA-ECMO patients. Pulmonary oedema would usually be responsible for the highest proportion of deaths in post ROSC hypothermia patients. [@Brown2012-ok],[@Svendsen2017-nm],[@Morrison2017-wa]
 
-Survival of hypothermic cardiac arrest with good neurological outcome, in non avalanche patients, is estimated at 36% [@Ruttmann2017-ed] Including avalanches this percentage falls to 25%. [@Ruttmann2017-ed]
+Beyond simply surviving cardiac arrest, good neurological outcome in non avalanche patients is estimated at 36% [@Ruttmann2017-ed] When avalanche victims are included this percentage falls to 25%. [@Ruttmann2017-ed]
 
-Avalanche patients with out of hospital cardiac arrest have an estimated 8% chance of survival. One trial of cardiac arrest in avalanche patients found 37 cases, with only 2 surviving to a good neurological outcome and a normal life. [@Ruttmann2017-ed]
+The prognosis of avalanche patients with out of hospital cardiac arrest is poor, with an 8% chance of survival. One study of cardiac arrest in avalanche patients identified 37 cases, with only 2 surviving to a good neurological outcome and a normal life. [@Ruttmann2017-ed]
 
-Factors that appear to increase the chance of a good neurological outcome appear to be:
-- Non Avalanche Patients
-- Water Submersion For Shorter Periods of Time
-- Witnessed Cardiac Arrest
-- Lower Serum Potassium
-- Shorter Duration of CPR
+Factors that appear to increase the chance of a good neurological outcome include being a non avalanche patient, short period of water submersion, short duration of CPR, witnessed cardiac arrest, and low serum potassium. [@Ruttmann2017-ed],[@Svendsen2017-nm] Whereas patients buried in avalanche, or with visible pathology on CT scan have poorer chance of a good outcome. Perhaps surprisingly both shockable and nonshockable rhythms have similar outcomes, when comparing VF and PEA. Although both have better neurological outcomes than an asystolic arrest. The core body temperature on rescue, and whether ROSC is pre-hospital or in hospital, do not affect the chance of a good outcome. [@Ruttmann2017-ed],[@Paal2016-mg]
 
-[@Ruttmann2017-ed],[@Svendsen2017-nm]
-
-Factors that increase the likelihood of a poor neurological outcome:
-
-- Avalanche Burial
-- Pathology Seen on CT Scanning
-
-Factors that don't affect the likelihood of a good neurological outcome:
-
-- Shockable/Non Shockable Rhythms (although in avalanche patients, VF/PEA have better outcomes than asystole)
-- ROSC Pre Hospital/ROSC In Hospital
-- Body Core Temperature
-
-[@Ruttmann2017-ed],[@Paal2016-mg]
-
-CT scanning of the head can show evidence of brain anoxia, as well as trauma. [@Paal2016-mg]  Serum potassium levels can be used as a marker of tissue hypoxia before arrest, and increased potassium correlates with brain anoxia. [@Paal2016-mg] However the limitations of CT scanning must be recognised. One trial of CT scanning in the first 12 hours after cardiac arrest, found that 17% of patients who would survive with good neurological outcome had scans showing traditionally pessimistic signs such as "attenuation of grey/white matter or sulcal effacement". [@Ruttmann2017-ed]
+CT scanning in potential hypothermic cardiac arrest can show evidence of brain anoxia, as well as trauma. [@Paal2016-mg]  Another more immediate investigation is serum potassium levels, which have been seen to correlate with brain anoxia. [@Paal2016-mg] However the limitations of CT scanning must be recognised. One trial of CT scan in the first 12 hours after cardiac arrest, found that 17% of patients who would eventually survive with good neurological outcome had initial scans showing traditionally pessimistic signs such as "attenuation of grey/white matter or sulcal effacement". [@Ruttmann2017-ed]
 
 ### Key Points
 
