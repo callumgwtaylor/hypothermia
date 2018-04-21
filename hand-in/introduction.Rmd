@@ -1,0 +1,150 @@
+---
+title: "Educational Resource - Hypothermia"
+author: '570003057'
+date: "17 April 2018"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Specialist Environment Health Guide
+
+The attached educational resource was created as a specialist environment health guide. It was designed for healthcare professionals who may encounter patients with hypothermia, in a polar or subpolar environment.
+
+This was designed as an online resource, an ebook formatted to be read on computer, phone, or tablet screens.
+
+It can be found online at:
+
+http://hpdm074-570003057-hypothermia.education
+
+This assessment submission contains the text for the online resource, formatted for a document that can be printed.
+
+In addition to the ebook, a series of flashcards were created to aid students recall key points from the educational resource. These can be found online at:
+
+http://hpdm074-570003057-hypothermia.education/flashcard_presentation.html/
+
+The flashcards have also been provided as a comma-seperated-values (CSV) file, importable into most digital flashcard software, including Anki (a popular free flashcard program). These flashcards each have three values: A question, an answer, and a reference to the paper they were taken from.
+
+Unfortunately to allow assessment submission as a single file, the text content of the CSV file is stored as part of this pdf. If you wished to load this into flashcard software: copy the text into a new text file, save it as a csv, and load it into your own flashcard software with the "Import from CSV" option.
+
+This text was shared first with others on the World Extreme Medicine, Polar Medicine course as an early draft. After the course the book and flashcards were hosted online and written feedback was solicited.
+
+The feedback from others is below, followed by my documentation on changes made to the text.
+
+Following the feedback and changes, is the text of the ebook and the content of the flashcards. This resource can be viewed online (see links above) and is anonymised. However, in case markers are not allowed to view external documents, some screen shots of the ebook layout are provided at the end of this submission.
+
+### Rationale in choosing an website to host text
+
+This book was written using markdown, and the open source programming language R to compile an ebook format. Slides were created in the same way. Progressive drafts were created using Git, a common version control system, allowing changes to be compared to previous versions. The book and presentation was then uploaded to GitHub, an online code and software sharing service. The website was created using GitHub pages, and the domain registered through Google Domains, allowing anonymisation of the student from markers.
+
+Creating an online ebook using this method has several advantages over printed documents, or pdf/word documents. Any changes by the author can be uploaded as easily as saving a file, and will update the text for all instantly. Online books can be distributed globally instantly at close to zero cost to the author. The text based static web page does not use large amounts of data, and will be usable on slow internet connections or those with limited data plans.
+
+Storing the text used to create the book on GitHub allows other users to make copies of the text and make changes. These changes can then be sent to back to the original author for approval, who can then allow the changes with a single button click, incorporating the suggestions of others easily and instantly. This allows for greater collaboration in writing, and the Git version system allows all authors to review the exact changes made, plus the history of all changes.
+
+Links to this book's GitHub page have not been included to maintain the anonymity of the author.
+
+### Peer Feedback and Reflection
+
+AR: "I'm impressed with your paper, well researched and written, I found it very informative particularly in regards to some of the research around resuscitation which I had not been aware of"
+
+MP: "hope all is well with you and the masters going well
+
+I read your hypothermia booklet which is great (could I use it as a teaching aid please?)
+
+also just comments if you wish to add these at all (sorry not had time to reference though) 
+do you mention the issues with underlying conditions and prescribed medications increasing the risk of AH converse to being the primary 
+cause 
+
+also in the emergency department setting ensuring removing cold insulating layers that are insulating from the warm ambient temperatures therefore slowing /inhibiting warming such as with warm air reheating blankets therefore undressing the patient"
+
+JK: "For a native Englishman these terms may sound as routine language, but may likely  not be so for a foreigner" - In reference to phrase "Stumbles, Mumbles Fumbles and Grumbles". JK made multiple other comments as feedback in line with the text. Mostly advice on restructuring individual sentences to improve clarity.
+
+JN: "Hi Callumhappy to help with your assignment. Hopefully what I say here is useful and makes sense.
+
+I would rewrite this line in 6.1 Removing wet clothes may improve patient comfort but can speed cooling in a cold environment. I feel that it could be confusing
+
+9.1 I wouldn’t put adrenaline indications/contraindications in () they should spelt out black and white so they are very clear.
+
+I have come across pt with temperature below 25 and not done resus due to obvious signs of death not sure if you want expand/add some of this.  
+
+11. Paragraph 3 maybe I don’t understand it but it sounds contradictory to me.
+
+Overall it is very readable. I feel that the beginning is very simplistic and becoming more technical as it progresses. I don’t think you mentioned your target audience med/health student, med/health pro, first aid/responder and the specific settings urban rural or wilderness might be good to define these to help decide on the language used  and info given.
+
+Serum levels an interesting point to mention as I don’t believe there’s a way to measure pre hospitality. Please correct me if I’m wrong. To me it sound like these measurements are from the hospital and coroners reports  
+
+If you are interested in the JRCALC (uk Ambulance) guide lines let me know which bits you’d like to see and I can send you the relevant pages. It is interesting to compare what is in wilderness guides given most cases are from the urban environment where definitive care is close by.
+
+I had a very brief flick through some of the flash cards. They look good from the ones I saw but let me know if I need to have another look.
+"
+
+AT: "Yours was great... Here's my feedback:
+
+Looks very professional! Great "key points" – really summarises the main points clearly and succinctly. Initially when I started reading, I wondered if it needed some colour or pictures, but actually as I went through it, I found it engaging and very readable – pictures would have been a distraction I think. I love how thorough this is, really suitable for hospital and on expedition, great resource for doctors. The flash cards were good too – not my style to use flashcards for revision but I know some people love learning with them. Just a few comments below on some typos etc:
+
+ 
+
+Spelling of unconscious in section 3 Then when core body temperature is less than 28°C adult patients can be expected to be unconcious.
+
+Something is going on with the speech marks in the first line of section 4
+
+Just a thought on the formatting – 4.2.1 suggests it is a subset of point 4.2, but it isn’t in reality
+
+Seciton 6.0 – do you mean venous return from the head rather than to the head?
+
+In section 6.1 – should be An impermeable vapour (not a)
+
+Section 8 – first line of 4th paragraph even in countries whout easy access to ECLS
+
+Section 8.0.1 – Missing a word here? it remains the recommended treatment modality current expert guidance"
+
+AA: "I really liked your resource.  How did you construct that? It would be really useful to know for future if you wouldn't mind sharing?
+
+What I liked:
+
+- Works very well as an educational resource - available on mobile devices, portable
+
+- Very appropriate level of information for the target audience
+
+- Good use of critical appraisal amongst the text
+
+- Good layout and use of sub headings. I particularly liked the 'key points' section at the end of each page
+
+- Flashcards are a very good idea for testing knowledge as can be used to self test, not requiring a second person
+
+Improvements:
+- Would not be useful necessarily in the cold environments (where it is intended) mainly due to battery power, it would all need to memorised before leaving - although I'm not sure how you get around that one!
+
+- Is there a way of adding pictures? It would break up the text a little and make it slightly easier to read eg. examples of ECG changes mentioned.
+
+- As much as I liked the flashcards, I had some difficulty downloading them - they put the information all onto one screen.  When just attempting to view them, the answers appear directly below the question giving the reader an opportunity to inadvertently cheat - is this just my phone? Is there a way to amend it because its a really good idea!
+
+"
+
+#### Reflection
+
+Overall feedback from reviewers was positive, I was reassured by comments from particular reviewers who worked in polar and mountain rescue settings stating that it made them aware of new aspects of hypothermia resuscitation, and requesting the use of it as a teaching aid.
+
+I agreed with the suggestions from many reviewers that additional aspects could be relevant to the treatment of hypothermia, such as:
+- the importance of underlying conditions
+- the relevance of prescribed medications
+
+Unfortunately I was unable to explore these factors in the book due to space constraints.
+
+I agreed with suggestions that:
+- removing wet clothing may be beneficial in a warm environment
+
+I agreed that some turns of phrase may be confusing to non-native english speakers, and have attempted to make the changes suggested, and to simplify language used where possible. I have kept the phrase "Stumbles, Fumbles, Mumbles, and Grumbles" as it is a frequently repeated memory aid used in the treatment of hypothermia, accepting that it may be less beneficial for non-native english speakers.
+
+Some other suggestions make sense from the reviewers perspective, and are also about clarity of the text. I have restructured sentences to improve clarity. I have clarified the target audience in the introduction of the text, and accepted that some technical language is unavoidable in a text designed for professionals. I have also made the spelling and formatting changes suggested by ther reviewers.
+
+Other suggestions such as the lack of benefit of serum potassium levels are interesting. However I have not changed the text in this section, as to do so may change the implied meaning of the guidelines themselves, and I wish to give an accurate representation of what they state.
+
+In response to the suggestion that this text may not be as useful in areas requiring on battery power, I agree with that point. This text can be formatted into an word document suitable for print out (as evidenced by its submission both as a word document and online website). However I feel the advantages of an online format outweigh the disadvantages. The ease of updating the text, the ability to receive feedback on the text, and the wide distribution of the text would all not be possible in a printed format.
+
+With the feedback regarding the ability to "cheat" with flashcards online. The original cards presentation included the question, answer, and reference all on a single slide. The new slides online split each card into a "question slide", and a "answer and reference slide".
+
+As I have received feedback both suggesting adding pictures, and advocating keeping it picture free, I have elected to not add pictures unless at some future point I find specific images that add significant benefit.
+
